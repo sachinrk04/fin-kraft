@@ -1,0 +1,18 @@
+.filinghistory-container {
+  background-color: gainsboro;
+  margin: 10px;
+  width: 100%;
+  display: flex;
+  .table-data {
+    width: 50%;
+    .filinghistory-footer {
+      background-color: gainsboro;
+      padding: 2px 10px;
+    }
+  }
+  .filinghistory-graph {
+    width: 50%;
+    height: 100%;
+    border: 1px solid gainsboro;
+  }
+}

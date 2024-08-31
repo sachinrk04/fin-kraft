@@ -1,0 +1,1404 @@
+{
+  "_id": "01AAGCT5833R1ZX",
+  "info": {
+    "ntcrbs": "SPO",
+    "contacted": {
+      "name": "XXXXXXXX",
+      "mobNum": {
+        "$numberLong": "9999999999"
+      },
+      "email": "XX.XXXX@XX.XX"
+    },
+    "adhrVFlag": "No",
+    "lgnm": "TRIPSHOPE TRAVEL TECHNOLOGIES PRIVATE LIMITED",
+    "gstin": "01AAGCT5833R1ZX",
+    "gtiFY": "2019-2020",
+    "ekycVFlag": "No",
+    "cmpRt": "NA",
+    "ctb": "Private Limited Company",
+    "tradeNam": "TRIPSHOPE TRAVEL TECHNOLOGIES PRIVATE LIMITED",
+    "isFieldVisitConducted": "No",
+    "ctj": "State - CBIC,Zone - CHANDIGARH,Commissionerate - JAMMU,Division - SRINAGAR,Range - RANGE-III (Jurisdictional Office)",
+    "percentTaxInCash": "NA",
+    "compDetl": true,
+    "gti": "Up to Rs. 2.5 lakhs",
+    "mandatedeInvoice": "No",
+    "aggreTurnOverFY": "2023-2024",
+    "stj": "State - Jammu and Kashmir,Division - Kashmir,Circle - Circle Anantnag II-Kashmir",
+    "dty": "Regular",
+    "aggreTurnOver": "Slab: Rs. 5 Cr. to 25 Cr.",
+    "cxdt": "",
+    "nba": [
+      "Office / Sale Office",
+      "Supplier of Services",
+      "Recipient of Goods or Services",
+      "Export"
+    ],
+    "rgdt": "24/01/2018",
+    "sts": "Active",
+    "percentTaxInCashFY": "",
+    "einvoiceStatus": "Yes",
+    "mbr": [
+      "Adil Sathu ",
+      "Atif Sathoo "
+    ]
+  },
+  "pob": {
+    "pradr": {
+      "adr": "2nd Floor, The Empire, Iqbalabad, KP Road, Anantnag, Anantnag, Jammu and Kashmir, 192101",
+      "em": "XX.XXXX@XX.XX",
+      "mb": {
+        "$numberLong": "9999999999"
+      },
+      "ntr": "Office / Sale Office, Supplier of Services, Recipient of Goods or Services, Export",
+      "addr": "NA",
+      "lastUpdatedDate": "NA"
+    },
+    "adadr": [],
+    "compDetl": false
+  },
+  "enablement": {
+    "einvoiceEnable": "E-Invoice is NOT ENABLED for this Taxpayer.",
+    "tradeNm": "TRIPSHOPE TRAVEL TECHNOLOGIES PRIVATE LIMITED",
+    "einvoiceStatus": "No",
+    "legalNm": "TRIPSHOPE TRAVEL TECHNOLOGIES PRIVATE LIMITED",
+    "gstin": "01AAGCT5833R1ZX",
+    "type": "Regular"
+  },
+  "filinghistory": {
+    "2017": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2017-2018",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "05/05/2018",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2017-2018",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "05/05/2018",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2017-2018",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "20/04/2018",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2017-2018",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "19/02/2018",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2018": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2018-2019",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "30/04/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "31/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "31/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "31/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "31/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "17/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "17/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "17/03/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "06/09/2018",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "23/07/2018",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "23/04/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "30/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "30/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "30/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "30/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "16/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "16/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "16/03/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "04/09/2018",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "19/07/2018",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2018-2019",
+            "taxp": "Annual",
+            "mof": "ONLINE",
+            "dof": "19/08/2021",
+            "rtntype": "GSTR9",
+            "arn": "-",
+            "status": "Not Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2019": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2019-2020",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "06/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "03/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "03/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "03/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "03/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "03/03/2020",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "30/07/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "May",
+            "mof": "ONLINE",
+            "dof": "30/07/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "April",
+            "mof": "ONLINE",
+            "dof": "18/05/2019",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "30/09/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "06/07/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "02/07/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "28/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "28/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "28/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "28/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "28/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "09/02/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2019-2020",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "24/07/2019",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2020": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2020-2021",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "13/06/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "13/03/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "13/03/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "13/03/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "May",
+            "mof": "ONLINE",
+            "dof": "07/02/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "20/04/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "20/04/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "08/03/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "01/02/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "01/02/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "18/01/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "18/01/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "18/01/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "18/01/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2020-2021",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "30/09/2020",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2021": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2021-2022",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "28/04/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "11/03/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "11/02/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "18/01/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "17/12/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "25/11/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "25/11/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "30/09/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "29/09/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "29/09/2021",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "28/04/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "19/03/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "21/02/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "18/01/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "21/12/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "20/11/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "20/10/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "30/09/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "19/08/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "24/07/2021",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2021-2022",
+            "taxp": "Annual",
+            "mof": "ONLINE",
+            "dof": "30/12/2022",
+            "rtntype": "GSTR9",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2022": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2022-2023",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "20/05/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "14/04/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "27/02/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "23/01/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "20/12/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "24/11/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "30/10/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "20/09/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "20/08/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "20/07/2022",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "24/05/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "14/04/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "27/02/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "23/01/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "20/12/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "24/11/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "30/10/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "20/09/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "20/08/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "20/07/2022",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2022-2023",
+            "taxp": "Annual",
+            "mof": "ONLINE",
+            "dof": "28/12/2023",
+            "rtntype": "GSTR9",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2023": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2023-2024",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "25/04/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "20/03/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "25/02/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "27/01/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "19/12/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "25/11/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "01/11/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "20/09/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "11/08/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "01/08/2023",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "March",
+            "mof": "ONLINE",
+            "dof": "25/04/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "February",
+            "mof": "ONLINE",
+            "dof": "20/03/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "January",
+            "mof": "ONLINE",
+            "dof": "25/02/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "December",
+            "mof": "ONLINE",
+            "dof": "27/01/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "November",
+            "mof": "ONLINE",
+            "dof": "19/12/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "October",
+            "mof": "ONLINE",
+            "dof": "29/11/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "September",
+            "mof": "ONLINE",
+            "dof": "01/11/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "August",
+            "mof": "ONLINE",
+            "dof": "20/09/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "July",
+            "mof": "ONLINE",
+            "dof": "20/08/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2023-2024",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "01/08/2023",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    },
+    "2024": {
+      "filingStatus": [
+        [
+          {
+            "fy": "2024-2025",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "18/07/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2024-2025",
+            "taxp": "May",
+            "mof": "ONLINE",
+            "dof": "29/06/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2024-2025",
+            "taxp": "April",
+            "mof": "ONLINE",
+            "dof": "27/05/2024",
+            "rtntype": "GSTR1",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2024-2025",
+            "taxp": "June",
+            "mof": "ONLINE",
+            "dof": "20/07/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2024-2025",
+            "taxp": "May",
+            "mof": "ONLINE",
+            "dof": "29/06/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          },
+          {
+            "fy": "2024-2025",
+            "taxp": "April",
+            "mof": "ONLINE",
+            "dof": "27/05/2024",
+            "rtntype": "GSTR3B",
+            "arn": "NA",
+            "status": "Filed"
+          }
+        ]
+      ],
+      "status": "No records Found"
+    }
+  },
+  "liabilityhistory": {
+    "curfy": "2024",
+    "prevfy": "2023",
+    "curtotal": "100",
+    "prevtotal": "100",
+    "curdtls": [
+      {
+        "taxperiod": "Apr-24",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "May-24",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Jun-24",
+        "liab_pct": 100
+      }
+    ],
+    "prevdtls": [
+      {
+        "taxperiod": "Apr-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "May-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Jun-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Jul-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Aug-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Sep-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Oct-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Nov-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Dec-23",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Jan-24",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Feb-24",
+        "liab_pct": 100
+      },
+      {
+        "taxperiod": "Mar-24",
+        "liab_pct": 100
+      }
+    ]
+  },
+  "HSN": {
+    "bzsdtls": [
+      {
+        "saccd": "998551",
+        "sdes": "Reservation services for transportation"
+      },
+      {
+        "saccd": "998559",
+        "sdes": "Other travel arrangement and related services n.e.c"
+      },
+      {
+        "saccd": "998552",
+        "sdes": "Reservation services for accommodation, cruises and package tours"
+      },
+      {
+        "saccd": "998555",
+        "sdes": "Tour operator services"
+      }
+    ]
+  }
+}
